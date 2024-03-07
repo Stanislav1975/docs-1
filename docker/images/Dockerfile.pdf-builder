@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:20.04
 
 ARG PANDOC_VERSION=2.14.1
 ARG PANDOC_DEB=pandoc-${PANDOC_VERSION}-1-amd64.deb
