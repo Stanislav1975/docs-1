@@ -31,7 +31,7 @@
     "balance-text": "^3.3.0",
     "bl": "5.0.0",
     "bootstrap": "4.6.0",
-    "gatsby": "^3.2.1",
+    "gatsby": "^5.13.2",
     "gatsby-cli": "^3.2.0",
     "gatsby-plugin-algolia": "^0.18.0",
     "gatsby-plugin-catch-links": "^3.2.0",
